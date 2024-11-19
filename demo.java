@@ -1,0 +1,4 @@
+class find
+  {
+    int a;
+  }
